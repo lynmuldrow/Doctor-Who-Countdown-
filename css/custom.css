@@ -13,7 +13,7 @@
    GENERAL STYLES
  ============================================================ */
 body {
-    font-family: 'Open Sans', sans-serif;
+    font-family: 'Yanone Kaffeesatz', sans-serif;
     padding-bottom:72px;
    
 }
@@ -55,7 +55,7 @@ body {
     
 }
     #home-sec .overlay {
-        background-color:rgba(0, 0, 0, 0.8);
+        background-color:rgba(0, 0, 0, 0.4);
         min-height:100%;
         min-width: 100%;
     }
@@ -67,6 +67,7 @@ body {
     }
         #home-sec h1 i {
             color:#f00;
+
         }
 /* =============================================================
    SERVICES SECTION STYLES
